@@ -296,7 +296,7 @@ deps = {
   'src/third_party/libsrtp':
     'https://chromium.googlesource.com/chromium/deps/libsrtp.git@7a7e64c8b5a632f55929cb3bb7d3e6fb48c3205a',
   'src/third_party/dav1d/libdav1d':
-    'https://chromium.googlesource.com/external/github.com/videolan/dav1d.git@006ca01d387ac6652825d6cce1a57b2de67dbf8d',
+    'https://chromium.googlesource.com/external/github.com/videolan/dav1d.git@8d956180934f16244bdb58b39175824775125e55',
   'src/third_party/libaom/source/libaom':
     'https://aomedia.googlesource.com/aom.git@eefd5585a0c4c204fcf7d30065f8c2ca35c38a82',
   'src/third_party/libunwindstack': {
@@ -308,7 +308,7 @@ deps = {
   'src/third_party/protobuf-javascript/src':
     Var('chromium_git') + '/external/github.com/protocolbuffers/protobuf-javascript' + '@' + 'e34549db516f8712f678fcd4bc411613b5cc5295',
   'src/third_party/libvpx/source/libvpx':
-    'https://chromium.googlesource.com/webm/libvpx.git@8762f5efb2917765316a198e6713f0bc93b07c9b',
+    'https://chromium.googlesource.com/webm/libvpx.git@d1186e5b1870893a8c8a00f68b40bda40ec67ced',
   'src/third_party/libyuv':
     'https://chromium.googlesource.com/libyuv/libyuv.git@a6a2ec654b1be1166b376476a7555c89eca0c275',
   'src/third_party/lss': {
