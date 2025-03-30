@@ -37,7 +37,7 @@
 // problem.
 //
 // This macro must be defined uniformily across all the translation units.
-define RTC_OBJC_TYPE_PREFIX WHEP
+#define RTC_OBJC_TYPE_PREFIX WHEP
 
 // RCT_OBJC_TYPE
 //
